@@ -12,6 +12,7 @@
 
 ## License
 Dual licensed under the MIT and GPL licenses.
+
 * MIT - http://www.opensource.org/licenses/mit-license.php
 * GNU - http://www.gnu.org/licenses/gpl-3.0.html
 
