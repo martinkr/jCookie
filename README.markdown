@@ -1,6 +1,6 @@
 <a name="README">[jCookie](https://github.com/martinkr/jCookie)</a>
 =======
-** jCookie - a jQuery-Plugin providing an convenient api for CRUD-related cookie handling
+*jCookie - a jQuery-Plugin providing an convenient api for CRUD-related cookie handling*
 
 ## Example
 * Create & Update: _jQuery.jCookie('cookie','value');_
