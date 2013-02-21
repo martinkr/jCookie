@@ -4,7 +4,7 @@
  *
  * jCookie - a jQuery-Plugin providing an convenient api for CRUD-related cookie handling.
  *
- * @version 1.2
+ * @version 1.2.0
  *
  * @example:
  *  Create,update:
