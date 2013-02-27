@@ -1,17 +1,17 @@
 {
     "name": "jcookie",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "title": "jQuery.jCookie - be the cookie monster",
     "author": {
         "name": "Martin Krause",
-        "url": "https://github.com/martinkr"
+        "url": "http://martinkr.github.com"
     },
     "licenses": [
         {
             "type": "MIT",
             "url": "http://opensource.org/licenses/MIT",
-            "type": "LGPL-3.0",
-            "url": "http://opensource.org/licenses/lgpl-3.0.html"
+            "type": "GPL-3.0",
+            "url": "http://opensource.org/licenses/gpl-3.0.html"
         }
     ],
     "dependencies": {
