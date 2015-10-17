@@ -67,7 +67,7 @@ jQuery.jCookie = function(sCookieName_, oValue_, oExpires_, oOptions_) {
 	var sExpires_ = "";
 
 	// write ('n delete ) cookie even in case the value === null
-	if (oValue_ || (oValue_ === null && arguments.length == 2)) {
+	if (oValue_ !== undefined) {
 
 		// set preceding expire date in case: expires === null, or the arguments have been (STRING,NULL)
 		oExpires_ = (oExpires_ === null || (oValue_ === null && arguments.length == 2)) ? -1 : oExpires_;
